@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Cybersecurity.
-- 🌱 I’m currently learning JavaScript and Python.
-- 👯 I’m looking to collaborate on JS, Python
+- 🔭 I’m currently working as a Delivery Lead.
+- 🌱 I’m currently learning JavaScript and .NET.
+- 👯 I’m looking to collaborate on JS, React.
