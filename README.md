@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as a Cloud Security Architect.
-- 🌱 I’m currently learning JavaScript and .NET.
-- 👯 I’m looking to collaborate on JS, React.
+- 👯 I’m looking to collaborate on C#/.NET, React, DevOps.
