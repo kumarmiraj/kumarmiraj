@@ -5,9 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Cybersecurity.
-- 🌱 I’m currently learning JavaScript and Python.
-- 👯 I’m looking to collaborate on JS, Python
+- 🔭 I’m currently working as a Cloud Security Architect.
+- 👯 I’m looking to collaborate on JS, Python, DevOps.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -15,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a Delivery Lead.
+- 🔭 I’m currently working as a Cloud Security Architect.
 - 🌱 I’m currently learning JavaScript and .NET.
 - 👯 I’m looking to collaborate on JS, React.
