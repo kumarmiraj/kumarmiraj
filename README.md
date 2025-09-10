@@ -1,4 +1,4 @@
-### Hi there 👋, I am tech-savvy with a Bachelor of Engineering in Computer Science. (PMP)® Certified and a Scrum practitioner.
+### Hi there 👋
 
 <!--
 **kumarmiraj/kumarmiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
